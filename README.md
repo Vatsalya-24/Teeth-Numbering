@@ -23,8 +23,7 @@ Teeth and Nerve Segmentation is a web-based application built using Streamlit th
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YugantGotmare/Dental-Imaging-and-Analysis-using-Computer-Vision.git
-   cd /Dental-Imaging-and-Analysis-using-Computer-Vision
+   git clone https://github.com/Vatsalya-24/Teeth-Numbering.git
    ```
 2. Create a virtual environment and install dependencies:
    ```bash
